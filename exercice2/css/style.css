@@ -1,0 +1,26 @@
+
+.row > div > div {
+	height: 1rem;
+	margin-top: 0.2rem;
+	margin-bottom: 0.2rem;
+}
+
+.bgcolor-yellow {
+	background-color: #ffff00ff;
+}
+
+.bgcolor-blue {
+	background-color: #0000ffff;
+}
+
+.bgcolor-red {
+	background-color: #ff0000ff;
+}
+
+.bgcolor-green {
+	background-color: #008000ff;
+}
+
+.bgcolor-grey {
+	background-color: #808080ff;
+}
